@@ -1,0 +1,15 @@
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\bin\Debug\net9.0\methods.exe
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\bin\Debug\net9.0\methods.deps.json
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\bin\Debug\net9.0\methods.runtimeconfig.json
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\bin\Debug\net9.0\methods.dll
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\bin\Debug\net9.0\methods.pdb
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.AssemblyInfoInputs.cache
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.AssemblyInfo.cs
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.sourcelink.json
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.dll
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\refint\methods.dll
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.pdb
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\methods.genruntimeconfig.cache
+C:\Users\alexa\repositories\training-microsoft-learn-cs\methods\obj\Debug\net9.0\ref\methods.dll
