@@ -19,7 +19,7 @@ Console.WriteLine(roll);
     Métodos sem estado são implementados para que possam funcionar
     sem referenciar ou alterar os valores já armazenados na memória.
 */
-Console.WriteLine("Console.WriteLine eh um xemplo de metodo estático");
+Console.WriteLine("Console.WriteLine eh um exemplo de metodo estático");
 
 /* métodos com estado são construídos de maneira que os torna dependentes
    de valores armazenados na memória por linhas de código anteriores já executadas
